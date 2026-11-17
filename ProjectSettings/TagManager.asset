@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 3
   tags:
   - Coleccionable
+  - pizo
+  - Coleccionable2
+  - win
+  - kill
+  - tp
   layers:
   - Default
   - TransparentFX
